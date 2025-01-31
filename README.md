@@ -1,3 +1,3 @@
 https://indaldheeraj.github.io/innomaticsInternshipTask1/
-personalbudgettrackers.netlify.app
+https://personalbudgettrackers.netlify.app/
 
